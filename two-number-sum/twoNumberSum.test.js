@@ -1,6 +1,5 @@
-import { twoNumberSum1 } from './two-number-sum/twoNumberSum1.js';
+import { twoNumberSum1, twoNumberSum2 } from './twoNumberSum.js';
 import { expect } from 'chai';
-import { twoNumberSum2 } from './two-number-sum/twoNumberSum2.js';
 
 describe('Two number sum question', function () {
   describe('Test Case #1', function () {
